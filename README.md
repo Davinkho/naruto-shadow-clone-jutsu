@@ -10,7 +10,7 @@ A browser-based app that uses your webcam, hand tracking, and a custom-trained g
 
 ## Note:
 
-- Yes, it’s an ML project in JS and not Python :P cause why not
+- Yes, it’s an ML project in JS and not Python :P hehe
 - I am not a MLE or Data Scientist. My goal was to make it exist, not to make it optimal (this can be done by you!)
 - I used a simple neural network in my version (see `trainer.js`). For those who wish to get better performance, I encourage you to mess around with the topology of the model or even try new models entirely
 
